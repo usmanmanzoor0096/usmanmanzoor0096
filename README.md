@@ -7,10 +7,15 @@
 
 
 ❖	Experience IT /Software Engineer/Automation Engineer/ Management professional with graduation in Information Technology.
+
 ❖	A results-driven, customer-focused, articulate and analytical Senior Software Engineer who can think “out of the box”.
+
 ❖	Strong in design and integration problem-solving skills. Expert in C#, .NET, and T-SQL with database analysis and design.
+
 ❖	Skilled in developing business plans, requirements specifications, user documentation, and architectural systems research.
+
 ❖	Strong written and verbal communications. Interested in a challenging technical track career in an application development environment.
+
 Experienced in:
   ⮚	Engineering web development, all layers, from database to services to user interfaces.
   ⮚	Supporting legacy systems with backups of all cases to/from parallel systems
