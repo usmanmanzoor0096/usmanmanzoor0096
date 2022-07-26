@@ -20,7 +20,49 @@
 ❖ Bachelor of Computer Science (BSCS Hon’s) | July 2007 - september 2011| Kohat, Pakistan <br/>
 
 <h3>Projects / Accomplishments</h3>
+<b>Lgnd.art</b> 
+<p>The LGND ecosystem enables dynamic interaction and trade between high end collectors and a curated roster of best-in-class artists. Our mission is to empower creators around the world to secure their legacy, reach a larger audience, and build their future through our eco-conscious block chain technology.
+<br/>
+<a href="https://lgnd.art/">Lgnd.art</a></p>
+<br/>
 
+<b>BoPayment</b> 
+<p>Bo provides payment management solutions to businesses that are looking to diversify and create an identity. By utilizing a global network of payment providers, the Bo payment solution provides a more efficient payment process while saving valuable time, optimizing workflow and creating a competitive edge in the desired market.  
+<br/>
+<a href="https://bopayments.com/">Admin-Panel</a>
+<a href="https://control-center.io/">Control-Center</a>
+<a href="https://card-console.com/">Car-Console</a></p>
+<br/>
+
+<b>NOWwhere</b> 
+<p>
+    NOWstudios is the collaborative hub connecting Creators. We support Artists in the creation, promotion and marketing of future-ready NFTs.  
+<br/>
+<a href="https://nowwhere.io/">NOWwhere</a> </p>
+<br/>
+<br/>
+
+<b>POC(point of care), Deep Learn, Care Manager.</b> 
+<p>
+Healthcare, Accountable Care Organizations, MSO, ACO, Physician Practice, Independent Practice Association, EMR Agnostic Healthcare Technology, Value-Based Healthcare, and AI-Driven Solutions
+
+<br/>
+<a href="https://wisemaninnovations.com/">Wisemaninnovations</a> </p>
+<br/> 
+
+<b>Cigars Direct</b> 
+<p>
+Cigars Direct is an E-commerce site as E-business covers online transactions, but also extends to all Internet based interactions with business partners, suppliers and customers such as: selling direct to consumers, manufacturers and suppliers; monitoring and exchanging information; auctioning surplus inventory; and collaborative product design. These online interactions are aimed at improving or transforming business processes and efficiency.
+
+
+
+<br/>
+<a href="https://www.cigarsdirect.com/">Cigarsdirect</a> 
+<a href="https://www.humidorsdirect.com/">Humidorsdirect</a> 
+
+</p>
+<br/>
+  
 <br/>
 <br/> This is my CV which was last updated on `25-July-2022`.
 
