@@ -72,8 +72,17 @@ Cigars Direct is an E-commerce site as E-business covers online transactions, bu
 
 <b>Blockchain</b> 
 <img src="./images/blockchains.png" alt="Blockchain" /> 
+<hr/>
+<br/>
+
 <b>Platforms and Framworks</b> 
 <img src="./images/framwworks.png" alt="Frameworks" />
+<hr/>
+<br/>
+
 <b>Programing Languages</b> 
 <img src="./images/languages.png" alt="Languages" /> 
+<hr/>
+<br/>
+
 Feel free to reach out on the [Discord](https://discordapp.com/users/Usman0096#5430) directly. And if not available, email me I'll contact you asap.!
