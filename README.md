@@ -12,6 +12,7 @@
 <b>Languages -</b> C#, JavaScript, PHP<br/>
 <b>Front-End Development -</b> HTML5, CSS3<br/>
 <b>Frameworks - </b>ASP.NET Core, React Js, Node Js, Express.js<br/>
+<b>Blockchain - </b> Wax, Flow <br/>
 <b>Databases - </b>SQL Server, MongoDB, MySQL, SQL Lite, Postgresql <br/>
 <b>Version Control - </b> Git, TFVC <br/>
 
@@ -19,14 +20,14 @@
 <h3> Education and Qualification </h3>
 ❖ Bachelor of Computer Science (BSCS Hon’s) | July 2007 - september 2011| Kohat, Pakistan <br/>
 
-<h3>Projects / Accomplishments</h3>
-<b>Lgnd.art</b> 
+<h3>PROJECTS / ACCOMPLISHMENTS</h3>
+<b>Lgnd.art | Blockchain</b> 
 <p>The LGND ecosystem enables dynamic interaction and trade between high end collectors and a curated roster of best-in-class artists. Our mission is to empower creators around the world to secure their legacy, reach a larger audience, and build their future through our eco-conscious block chain technology.
 <br/>
 <a href="https://lgnd.art/">Lgnd.art</a></p>
 <br/>
 
-<b>BoPayment</b> 
+<b>BoPayment | Fintech </b> 
 <p>Bo provides payment management solutions to businesses that are looking to diversify and create an identity. By utilizing a global network of payment providers, the Bo payment solution provides a more efficient payment process while saving valuable time, optimizing workflow and creating a competitive edge in the desired market.  
 <br/>
 <a href="https://bopayments.com/">Admin-Panel</a>
@@ -36,7 +37,7 @@
 
 <br/>
 
-<b>NOWwhere</b> 
+<b>NOWwhere | Blockchain</b> 
 <p>
     NOWstudios is the collaborative hub connecting Creators. We support Artists in the creation, promotion and marketing of future-ready NFTs.  
 <br/>
@@ -45,7 +46,7 @@
 
 <br/>
 
-<b>POC(point of care), Deep Learn, Care Manager.</b> 
+<b>POC(point of care), Deep Learn, Care Manager | Health Care</b> 
 <p>
 Healthcare, Accountable Care Organizations, MSO, ACO, Physician Practice, Independent Practice Association, EMR Agnostic Healthcare Technology, Value-Based Healthcare, and AI-Driven Solutions
 <br/>
@@ -54,7 +55,7 @@ Healthcare, Accountable Care Organizations, MSO, ACO, Physician Practice, Indepe
 
 <br/> 
 
-<b>Cigars Direct</b> 
+<b>Cigars Direct | Ecommerce </b> 
 <p>
 Cigars Direct is an E-commerce site as E-business covers online transactions, but also extends to all Internet based interactions with business partners, suppliers and customers such as: selling direct to consumers, manufacturers and suppliers; monitoring and exchanging information; auctioning surplus inventory; and collaborative product design. These online interactions are aimed at improving or transforming business processes and efficiency.
 <br/>
@@ -64,10 +65,15 @@ Cigars Direct is an E-commerce site as E-business covers online transactions, bu
 
 <br/>
   
-<br/> This is my CV which was last updated on `25-July-2022`.
+<br/> 
+
+<p>This is my CV which was last updated on `26-July-2022`.</p>
 
 
-### Blockchain
-<img src="./images/blockchains.png" alt="Blockchain" /> ### Platforms and Framworks
-<img src="./images/framwworks.png" alt="Frameworks" /> ### Programing Languages
-<img src="./images/languages.png" alt="Languages" /> Feel free to reach out on the [Discord](https://discordapp.com/users/Usman0096#5430) directly. And if not available, email me I'll contact you asap.!
+<b>Blockchain</b> 
+<img src="./images/blockchains.png" alt="Blockchain" /> 
+<b>Platforms and Framworks</b> 
+<img src="./images/framwworks.png" alt="Frameworks" />
+<b>Programing Languages</b> 
+<img src="./images/languages.png" alt="Languages" /> 
+Feel free to reach out on the [Discord](https://discordapp.com/users/Usman0096#5430) directly. And if not available, email me I'll contact you asap.!
