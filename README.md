@@ -31,39 +31,39 @@
 <br/>
 <a href="https://bopayments.com/">Admin-Panel</a>
 <a href="https://control-center.io/">Control-Center</a>
-<a href="https://card-console.com/">Car-Console</a></p>
+<a href="https://card-console.com/">Car-Console</a>
+</p>
+
 <br/>
 
 <b>NOWwhere</b> 
 <p>
     NOWstudios is the collaborative hub connecting Creators. We support Artists in the creation, promotion and marketing of future-ready NFTs.  
 <br/>
-<a href="https://nowwhere.io/">NOWwhere</a> </p>
-<br/>
+<a href="https://nowwhere.io/">NOWwhere</a> 
+</p>
+
 <br/>
 
 <b>POC(point of care), Deep Learn, Care Manager.</b> 
 <p>
 Healthcare, Accountable Care Organizations, MSO, ACO, Physician Practice, Independent Practice Association, EMR Agnostic Healthcare Technology, Value-Based Healthcare, and AI-Driven Solutions
-
 <br/>
-<a href="https://wisemaninnovations.com/">Wisemaninnovations</a> </p>
+<a href="https://wisemaninnovations.com/">Wisemaninnovations</a>
+</p>
+
 <br/> 
 
 <b>Cigars Direct</b> 
 <p>
 Cigars Direct is an E-commerce site as E-business covers online transactions, but also extends to all Internet based interactions with business partners, suppliers and customers such as: selling direct to consumers, manufacturers and suppliers; monitoring and exchanging information; auctioning surplus inventory; and collaborative product design. These online interactions are aimed at improving or transforming business processes and efficiency.
-
-
-
 <br/>
 <a href="https://www.cigarsdirect.com/">Cigarsdirect</a> 
 <a href="https://www.humidorsdirect.com/">Humidorsdirect</a> 
-
 </p>
+
 <br/>
   
-<br/>
 <br/> This is my CV which was last updated on `25-July-2022`.
 
 
