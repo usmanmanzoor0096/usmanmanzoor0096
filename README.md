@@ -75,7 +75,7 @@ Cigars Direct is an E-commerce site as E-business covers online transactions, bu
 <hr/>
 <br/>
 
-<b>Platforms and Framworks</b> 
+<b>Platforms and Framworks</b> <br/>
 <img src="./images/framwworks.png" alt="Frameworks" />
 <hr/>
 <br/>
@@ -85,7 +85,7 @@ Cigars Direct is an E-commerce site as E-business covers online transactions, bu
 <hr/>
 <br/>
 
-<b>CloudPlatforms</b> 
+<b>CloudPlatforms</b> <br/>
 <img src="./images/CloudPlatforms.png" alt="CloudPlatforms" /> 
 <hr/>
 <br/>
