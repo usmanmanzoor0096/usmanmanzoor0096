@@ -85,4 +85,11 @@ Cigars Direct is an E-commerce site as E-business covers online transactions, bu
 <hr/>
 <br/>
 
+<b>CloudPlatforms</b> 
+<img src="./images/CloudPlatforms.png" alt="CloudPlatforms" /> 
+<hr/>
+<br/>
+
+
+
 Feel free to reach out on the [Discord](https://discordapp.com/users/Usman0096#5430) directly. And if not available, email me I'll contact you asap.!
