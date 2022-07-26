@@ -69,8 +69,8 @@ Cigars Direct is an E-commerce site as E-business covers online transactions, bu
 
 <p>This is my CV which was last updated on `26-July-2022`.</p>
 
-
-<b>Blockchain</b> 
+<p style="text-align: center">
+<b>Blockchain</b> <br/>
 <img src="./images/blockchains.png" alt="Blockchain" /> 
 <hr/>
 <br/>
@@ -89,7 +89,7 @@ Cigars Direct is an E-commerce site as E-business covers online transactions, bu
 <img src="./images/CloudPlatforms.png" alt="CloudPlatforms" /> 
 <hr/>
 <br/>
-
+</p>
 
 
 Feel free to reach out on the [Discord](https://discordapp.com/users/Usman0096#5430) directly. And if not available, email me I'll contact you asap.!
