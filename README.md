@@ -23,7 +23,7 @@
 
 <br/>
 <h3> Education and Qualification </h3>
-❖ Bachelor of Computer Science (BSCS Hon’s) | July 2007 - september 2011| Kohat, Pakistan <br/>
+❖ Bachelor of Computer Science (BSCS Hon’s) | July 2007 - september 2011 | Kohat, Pakistan <br/>
 
 <h3>PROJECTS / ACCOMPLISHMENTS</h3>
 <b>Lgnd.art | Blockchain</b> 
