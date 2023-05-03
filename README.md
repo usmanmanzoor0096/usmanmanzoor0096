@@ -10,11 +10,16 @@
 ❖ Strong written and verbal communications. Interested in a challenging technical track career in an application development environment.<br/>
 
 <h3> EXPERIENCED IN </h3>
-⮚ Engineering web development, all layers, from database to services to user interfaces.<br/> ⮚ Supporting legacy systems with backups of all cases to/from parallel systems<br/> ⮚ Analysis and design of databases and user interfaces.<br/> ⮚ Managing requirements & Implementing software development life cycle policies and procedures.<br/> ⮚ Managing and supporting multiple projects, highly adaptable in quickly changing technical environments with very strong organizational and analytical skills.<br/>
+⮚ Engineering web development, all layers, from database to services to user interfaces.<br/> 
+⮚ Engineering in Micor services and Monolithic architecture.<br/> 
+⮚ Supporting legacy systems with backups of all cases to/from parallel systems<br/>
+⮚ Analysis and design of databases and user interfaces.<br/>
+⮚ Managing requirements & Implementing software development life cycle policies and procedures.<br/>
+⮚ Managing and supporting multiple projects, highly adaptable in quickly changing technical environments with very strong organizational and analytical skills.<br/>
 
 
 <h3> TECHNICAL SKILLS </h3>
-<b>Languages -</b> C#, JavaScript, PHP<br/>
+<b>Languages -</b> C#, PHP, Node Js ,JavaScript, JQuery, Type Script<br/>
 <b>Front-End Development -</b> HTML5, CSS3<br/>
 <b>Frameworks - </b>ASP.NET Core, React Js, Node Js, Express.js<br/>
 <b>Blockchain - </b> Wax, Flow <br/>
@@ -24,6 +29,13 @@
 <br/>
 <h3> Education and Qualification </h3>
 ❖ Bachelor of Computer Science (BSCS Hon’s) | July 2007 - september 2011 | Kohat, Pakistan <br/>
+
+<h3>PROJECTS / ACCOMPLISHMENTS</h3>
+<b>Bloomly | Blockchain</b> 
+<p>Bloomly is a (NFT Multi tanent application). We help creators & brands easily build, sell and grow their NFT marketplace at a minimal cost
+<br/>
+<a href="https://bloomly.xyz/">Bloomly</a></p>
+<br/>
 
 <h3>PROJECTS / ACCOMPLISHMENTS</h3>
 <b>Lgnd.art | Blockchain</b> 
@@ -72,27 +84,27 @@ Cigars Direct is an E-commerce site as E-business covers online transactions, bu
   
 <br/> 
 
-<p>This is my CV which was last updated on `26-July-2022`.</p>
+<p>This is my CV which was last updated on `03-May-2023`.</p>
 
 <p style="text-align: center">
 <b>Blockchain</b> <br/>
-<img src="./images/blockchains.png" alt="Blockchain" style="max-width: 50%;"/> 
+<img src="./images/blockchains.png" alt="Blockchain" style="max-width: 15% !important;"/> 
 <hr/>
 <br/>
 
 <b>Platforms and Framworks</b> <br/>
-<img src="./images/framwworks.png" alt="Frameworks" style="max-width: 50%;"/>
+<img src="./images/framwworks.png" alt="Frameworks" style="max-width: 15% !important;"/>
 <hr/>
 <br/>
 
 <p> <b>Programing Languages</b> <br/>
-<img src="./images/languages.png" alt="Languages" style="max-width: 50%;"/> 
+<img src="./images/languages.png" alt="Languages" style="max-width: 15% !important;"/> 
 </p>
 <hr/>
 <br/>
 
 <b>CloudPlatforms</b> <br/>
-<img src="./images/CloudPlatforms.png" alt="CloudPlatforms" style="max-width: 100%;" /> 
+<img src="./images/CloudPlatforms.png" alt="CloudPlatforms" style="max-width: 15% !important;" /> 
 <hr/>
 <br/>
 </p>
