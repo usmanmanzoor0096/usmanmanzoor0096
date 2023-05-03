@@ -1,4 +1,4 @@
-<h2> Hi there 👋 </h2>
+<h2> Hi there 👋 I'm Muhammad Usman </h2>
 
 [![Muhammad Usman Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-19b84948/) [![Muhammad Usman Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Usman0096#5430) [![Muhammad Usman Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/usman007kust@gmail.com) [![Muhammad Usman StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6589865/muhammad-usman)
 
