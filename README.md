@@ -88,23 +88,23 @@ Cigars Direct is an E-commerce site as E-business covers online transactions, bu
 
 <p style="text-align: center">
 <b>Blockchain</b> <br/>
-<img src="./images/blockchains.png" alt="Blockchain" style="max-width: 15% !important;"/> 
+<img src="./images/blockchains.png" alt="Blockchain" style="width: 15% !important;"/> 
 <hr/>
 <br/>
 
 <b>Platforms and Framworks</b> <br/>
-<img src="./images/framwworks.png" alt="Frameworks" style="max-width: 15% !important;"/>
+<img src="./images/framwworks.png" alt="Frameworks" style="width: 15% !important;"/>
 <hr/>
 <br/>
 
 <p> <b>Programing Languages</b> <br/>
-<img src="./images/languages.png" alt="Languages" style="max-width: 15% !important;"/> 
+<img src="./images/languages.png" alt="Languages" style="width: 15% !important;"/> 
 </p>
 <hr/>
 <br/>
 
 <b>CloudPlatforms</b> <br/>
-<img src="./images/CloudPlatforms.png" alt="CloudPlatforms" style="max-width: 15% !important;" /> 
+<img src="./images/CloudPlatforms.png" alt="CloudPlatforms" style="width: 15% !important;" /> 
 <hr/>
 <br/>
 </p>
