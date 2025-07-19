@@ -1,113 +1,125 @@
-<h2> Hi there 👋 I'm Muhammad Usman </h2>
+ # Hi there 👋 I'm Muhammad Usman
 
-[![Muhammad Usman Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-19b84948/) [![Muhammad Usman Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Usman0096#5430) [![Muhammad Usman Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/webdeveloper.m.usman@gmail.com) [![Muhammad Usman StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6589865/muhammad-usman)
+[![Muhammad Usman LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-19b84948/)
+[![Muhammad Usman Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Usman0096#5430)
+[![Muhammad Usman Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webdeveloper.m.usman@gmail.com)
+[![Muhammad Usman StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6589865/muhammad-usman)
 
-<br/> 
-❖ Experience IT /Software Engineer/Automation Engineer/ Management professional with graduation in Information Technology. <br/> 
-❖ A results-driven, customer-focused, articulate and analytical Senior Software Engineer who can think “out of the box”.<br/> 
-❖ Strong in design and integration problem-solving skills. Expert in C#, .NET, and T-SQL with database analysis and design.<br/> 
-❖ Skilled in developing business plans, requirements specifications, user documentation, and architectural systems research.<br/> 
-❖ Strong written and verbal communications. Interested in a challenging technical track career in an application development environment.<br/>
+---
 
-<h3> EXPERIENCED IN </h3>
-⮚ Engineering web development, all layers, from database to services to user interfaces.<br/> 
-⮚ Engineering in Micor services and Monolithic architecture.<br/> 
-⮚ Supporting legacy systems with backups of all cases to/from parallel systems<br/>
-⮚ Analysis and design of databases and user interfaces.<br/>
-⮚ Managing requirements & Implementing software development life cycle policies and procedures.<br/>
-⮚ Managing and supporting multiple projects, highly adaptable in quickly changing technical environments with very strong organizational and analytical skills.<br/>
+### About Me
 
+Innovative and results-driven **Solution Architect and Senior Software Engineer** with over **13 years of extensive experience** in designing, developing, and deploying robust software solutions. My expertise spans diverse industries including **Healthcare, FinTech, IoT, E-commerce, and Blockchain (NFTs)**.
 
-<h3> TECHNICAL SKILLS </h3>
-<b>Languages -</b> C#, PHP, Node Js ,JavaScript, JQuery, Type Script<br/>
-<b>Front-End Development -</b> HTML5, CSS3<br/>
-<b>Frameworks - </b>ASP.NET Core, React Js, Node Js, Express.js<br/>
-<b>Blockchain - </b> Wax, Flow <br/>
-<b>Databases - </b>SQL Server, MongoDB, MySQL, SQL Lite, Postgresql <br/>
-<b>Version Control - </b> Git, TFVC <br/>
+I specialize in the **.NET ecosystem (C#, .NET Core 3, 6, 8, ASP.NET)** and modern **cloud platforms (Azure, AWS)**, focusing on building scalable architectures (Clean Architecture, CQRS) and ensuring high standards of system operation, security (JWT, OAuth 2.0), and maintainability. I'm passionate about leading cross-functional teams and leveraging technology to solve complex business challenges.
 
-<br/>
-<h3> Education and Qualification </h3>
-❖ Bachelor of Computer Science (BSCS Hon’s) | July 2007 - september 2011 | Kohat, Pakistan <br/>
+---
 
-<h3>PROJECTS / ACCOMPLISHMENTS</h3>
-<b>Bloomly | Blockchain</b> 
-<p>Bloomly is a (NFT Multi tanent application). We help creators & brands easily build, sell and grow their NFT marketplace at a minimal cost
-<br/>
-<a href="https://bloomly.xyz/">Bloomly</a></p>
-<br/>
+### Core Competencies
 
-<h3>PROJECTS / ACCOMPLISHMENTS</h3>
-<b>Lgnd.art | Blockchain</b> 
-<p>The LGND ecosystem enables dynamic interaction and trade between high end collectors and a curated roster of best-in-class artists. Our mission is to empower creators around the world to secure their legacy, reach a larger audience, and build their future through our eco-conscious block chain technology.
-<br/>
-<a href="https://lgnd.art/">Lgnd.art</a></p>
-<br/>
+Here's a snapshot of my technical toolkit:
 
-<b>BoPayment | Fintech </b> 
-<p>Bo provides payment management solutions to businesses that are looking to diversify and create an identity. By utilizing a global network of payment providers, the Bo payment solution provides a more efficient payment process while saving valuable time, optimizing workflow and creating a competitive edge in the desired market.  
-<br/>
-<a href="https://bopayments.com/">Admin-Panel</a>
-<a href="https://control-center.io/">Control-Center</a>
-<a href="https://card-console.com/">Car-Console</a>
-</p>
+**Programming Languages:** C#, JavaScript, TypeScript
+**Backend & Frameworks:** .NET Core (3, 6, 8), ASP.NET Core, Entity Framework Core, LINQ, Node.js, Express.js
+**Frontend Development:** React.js, Angular (14, 18), HTML5, CSS3, Razor View
+**Cloud Platforms:**
+* **Azure:** Service Bus, Azure Functions, Azure Identity, Blob Storage, Azure Key Vault, Redis Cache, App Services, Virtual Machines
+* **AWS:** S3 Bucket, Lambda Functions, SQS, SNS, AWS Secrets Manager
+**Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, SQLite
+**Architectural Patterns:** Monolith, Microservice, Repository Pattern, Clean Architecture, CQRS, Singleton
+**Security:** JWT (JSON Web Tokens), OAuth 2.0, Hashing
+**Project Management:** Waterfall, Kanban, Agile (Sprint)
+**Version Control:** Git, TFVC (TFS), GitHub, Bitbucket
+**Payment Gateways:** PayPal, Stripe, Circe, PayCady
+**AI Tools (Familiarity):** Windsurf, OpenAI APIs
+**Other Tools:** Docker, Postman, Visual Studio, VS Code
 
-<br/>
+---
 
-<b>NOWwhere | Blockchain</b> 
-<p>
-    NOWstudios is the collaborative hub connecting Creators. We support Artists in the creation, promotion and marketing of future-ready NFTs.  
-<br/>
-<a href="https://nowwhere.io/">NOWwhere</a> 
-</p>
+### Professional Experience & Key Projects
 
-<br/>
+My career has involved leading and contributing to impactful projects across various domains. Here are some highlights:
 
-<b>POC(point of care), Deep Learn, Care Manager | Health Care</b> 
-<p>
-Healthcare, Accountable Care Organizations, MSO, ACO, Physician Practice, Independent Practice Association, EMR Agnostic Healthcare Technology, Value-Based Healthcare, and AI-Driven Solutions
-<br/>
-<a href="https://wisemaninnovations.com/">Wisemaninnovations</a>
-</p>
+#### **Solution Architect & Team Lead** | Troon Technologies (2021 - Present)
+* Leading full-stack development teams in designing and implementing scalable and secure software solutions.
+* Defining technical architecture, selecting appropriate technologies, and ensuring alignment with business objectives.
+* Mentoring junior and mid-level developers, fostering technical excellence.
 
-<br/> 
+**Key Projects at Troon Technologies:**
 
-<b>Cigars Direct | Ecommerce </b> 
-<p>
-Cigars Direct is an E-commerce site as E-business covers online transactions, but also extends to all Internet based interactions with business partners, suppliers and customers such as: selling direct to consumers, manufacturers and suppliers; monitoring and exchanging information; auctioning surplus inventory; and collaborative product design. These online interactions are aimed at improving or transforming business processes and efficiency.
-<br/>
-<a href="https://www.cigarsdirect.com/">Cigarsdirect</a> 
-<a href="https://www.humidorsdirect.com/">Humidorsdirect</a> 
-</p>
+* **Sovera (Blockchain | FinTech Merger)**
+    * **Description:** Designed and architected a "private custody" secure storage platform for multi-signature wallets, enabling seamless on/off-ramp crypto-fiat transfers and diverse asset support for 30+ blockchain assets.
+    * **My Role:** Architected and delivered a robust end-to-end SaaS platform for real-time cryptocurrency management.
+    * **Technologies:** .NET Core, React.js, Next.js, Azure Service Bus, SQL.
+    * **Impact:** Implemented advanced security with Web Application Firewall (WAF) and stringent access rules. Leveraged AI-driven solutions to accelerate time-to-market, significantly reducing client onboarding time and operational costs.
+    * [Sovera Website](https://www.sovera.io/)
 
-<br/>
-  
-<br/> 
+* **GRT Health (Healthcare - IoT)**
+    * **Description:** Healthcare management system focusing on HIPAA compliance and IoT data integration.
+    * **My Role:** Developed secure and HIPAA-compliant backend APIs using ASP.NET Core and SQL Server. Implemented robust security measures (data encryption, RBAC, audit logging). Contributed to IoT platform development, focusing on high-throughput data ingestion and real-time processing.
+    * **Technologies:** ASP.NET Core, SQL Server, .NET Core, Azure Functions, Azure Blob Storage.
+    * **Impact:** Optimized complex SQL queries and database indexing strategies, resulting in significant improvements to system performance and responsiveness.
+    * [GRT Health Website](https://www.grthealth.com/)
 
-<p>This is my CV which was last updated on `03-May-2023`.</p>
+* **Bloomly (Blockchain/NFTs/SaaS)**
+    * **Description:** A multi-tenant NFT marketplace helping creators and brands build, sell, and grow their NFT presence.
+    * **My Role:** Developed backend services for the blockchain-based NFT platform.
+    * **Technologies:** .NET Core, AWS Lambda functions, AWS S3, Pinata, Secrets Manager.
+    * [Bloomly Website](https://www.bloomly.xyz/)
 
-<p style="text-align: center">
-<b>Blockchain</b> <br/>
-<img src="./images/blockchains.png" alt="Blockchain" style="width: 15% !important;"/> 
-<hr/>
-<br/>
+* **BoPayment (FinTech)**
+    * **Description:** Provides payment management solutions to businesses, optimizing workflow and creating a competitive edge.
+    * **My Role:** Designed and implemented core payment processing modules, integrating with various financial APIs. Focused on high availability and transaction integrity.
+    * **Technologies:** .NET Core.
+    * **Impact:** Enhanced payment gateway integration, leading to a [X%] reduction in failed transactions.
+    * [Admin Panel](https://bopayments.com/) | [Control-Center](https://control-center.io/) | [Card-Console](https://card-console.com/)
 
-<b>Platforms and Framworks</b> <br/>
-<img src="./images/framwworks.png" alt="Frameworks" style="width: 15% !important;"/>
-<hr/>
-<br/>
+* **NOWwhere (Blockchain)**
+    * **Description:** A collaborative hub connecting creators, supporting artists in the creation, promotion, and marketing of future-ready NFTs.
+    * **My Role:** Contributed to the platform's development.
+    * [NOWwhere Website](https://nowwhere.io/)
 
-<p> <b>Programing Languages</b> <br/>
-<img src="./images/languages.png" alt="Languages" style="width: 15% !important;"/> 
-</p>
-<hr/>
-<br/>
+* **LGND.art (Blockchain)**
+    * **Description:** An ecosystem enabling dynamic interaction and trade between high-end collectors and curated artists, empowering creators through eco-conscious blockchain technology.
+    * **My Role:** Contributed to the platform's development.
+    * [LGND.art Website](https://lgnd.art/)
 
-<b>CloudPlatforms</b> <br/>
-<img src="./images/CloudPlatforms.png" alt="CloudPlatforms" style="width: 15% !important;" /> 
-<hr/>
-<br/>
-</p>
+#### **Senior Software Engineer** | Wiseman (2018 - 2020)
+* Contributed to the full software development lifecycle, from requirements gathering to deployment and maintenance.
+* Developed high-performance web applications and APIs using C# and ASP.NET.
+* Collaborated with cross-functional teams to deliver features on time and within budget.
+* **Projects:** POC (point of care), Deep Learn, Care Manager (Healthcare).
+    * [Wiseman Innovations Website](https://wisemaninnovations.com/)
 
+#### **Software Engineer** | Synergy (2017 - 2018)
+* Developed and maintained enterprise-level applications.
+* Successfully migrated a legacy module to a newer .NET framework, enhancing its stability.
 
-Feel free to reach out on the [Discord](https://discordapp.com/users/Usman0096#5430) directly. And if not available, email me I'll contact you asap.!
+#### **Software Engineer** | DPL (2013 - 2018)
+* Trained and mentored junior developers and engineers, improving overall team performance.
+* Checked client code for bugs and weaknesses using approved troubleshooting methods.
+* Led software development initiatives as a subject matter expert.
+* **Projects:** Cigars Direct (E-commerce).
+    * [Cigars Direct Website](https://www.cigarsdirect.com/)
+    * [Humidors Direct Website](https://www.humidorsdirect.com/)
+
+---
+
+### Education
+
+**Bachelor of Computer Science (BSCS Hon’s)** | KUST | Kohat, Pakistan (2007 - 2011)
+
+**Certifications:** Agile Certification
+
+---
+
+### Connect with Me
+
+Feel free to reach out directly on [Discord](https://discordapp.com/users/Usman0096#5430) or send me an email. I'm always open to discussing new projects, creative ideas, or opportunities!
+
+---
+
+**Note:** This profile reflects my latest resume, updated as of July 2025.
+
+---
+```
